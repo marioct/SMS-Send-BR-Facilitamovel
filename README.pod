@@ -43,7 +43,7 @@ This module requires these other modules and libraries:
 
 =head1 COPYRIGHT AND LICENCE
 
-Copyright (C) CPqD 2016 by Mario Celso Teixeira
+Copyright (C) 2023 by Mario Celso Teixeira
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.18.1 or,
